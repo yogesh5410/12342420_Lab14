@@ -1,1 +1,3 @@
-I am sample file
+I am sample file.
+
+I have been edited in edit_sample_file.
