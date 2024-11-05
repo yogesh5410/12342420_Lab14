@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 I am sample file
 
 edited in master branch.
+=======
+I am sample file.
+
+I have been edited in edit_sample_file.
+>>>>>>> edit_sample_file
